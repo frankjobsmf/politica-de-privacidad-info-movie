@@ -1,10 +1,10 @@
-# Política de Privacidad de Francisco Uribe
+# Política de Privacidad de infoMovie
 
 1. **Información que No Recopilamos**  
-   Francisco Uribe no recopila ningún dato personal de los usuarios que utilizan nuestra aplicación. Esto incluye, pero no se limita a, nombres, direcciones de correo electrónico, números de teléfono, direcciones IP u otra información personal identificable.
+   Francisco Uribe (Desarrollador) no recopila ningún dato personal de los usuarios que utilizan nuestra aplicación. Esto incluye, pero no se limita a, nombres, direcciones de correo electrónico, números de teléfono, direcciones IP u otra información personal identificable.
 
 2. **Uso de la Aplicación**  
-   Nuestra aplicación, [Nombre de la Aplicación], ofrece información sobre películas y series, incluyendo descripciones, votos de los títulos y las plataformas de streaming donde se pueden ver. Toda la información proporcionada en la aplicación es de acceso público y no requiere el ingreso de datos personales.
+   Nuestra aplicación, infoMovie, ofrece información sobre películas y series, incluyendo descripciones, votos de los títulos y las plataformas de streaming donde se pueden ver. Toda la información proporcionada en la aplicación es de acceso público y no requiere el ingreso de datos personales.
 
 3. **Publicidad**  
    Nuestra aplicación puede mostrar anuncios a través de servicios de terceros, como AdMob de Google. Estos servicios de terceros pueden utilizar cookies y otras tecnologías para mostrar anuncios relevantes. Para más información sobre cómo Google usa los datos cuando utilizas nuestros "partners" sitios o aplicaciones, visita la [Política de Privacidad de Google](https://policies.google.com/privacy).
